@@ -1,0 +1,11 @@
+face_recognition
+face-age-gender
+py-agender
+openCv
+numpy
+numpy 1.21.2
+libdb
+
+# run script
+python3 face.py haarcascade.xml
+python3.10 face_v2.py 
