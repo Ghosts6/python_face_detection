@@ -40,7 +40,7 @@ pip install py-agender face_recognition
 
 # face_v1:
 
-on first program we have simple code that work with models like cv2 and sys which you can access them with installing opencv and updated python version,but still we need one more thing "haarcascade.xml" file which you can download it from here or on the this repo"https://github.com/opencv/opencv/raw/master/data/haarcascades/haarcascade_frontalface_default.xml",this program only can detect face and mark them.
+on first program we have simple code that work with models like cv2 and sys which you can access them with installing opencv and updated version of python,this program only can detect face and mark it.
 
 ```python
 import cv2
