@@ -17,5 +17,5 @@ else
     echo "Unsupported operating system"
     exit 1
 fi
-
+pip install numpy && pip install numpy===1.21.2
 pip install py-agender face_recognition
