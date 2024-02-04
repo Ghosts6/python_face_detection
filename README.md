@@ -6,7 +6,7 @@ Here we have source code of two python program that i write to detect faces with
 
 # bash file:
 
-in this repo also i provide a bash script to help you with requirement you can use it on macos and linux to install model you need to run program but first you need to make the file excuteable:
+in this repo i also provide a bash script to help you with requirement you can use it on macos and linux to install model you need to run program but first you need to make the file excuteable:
 
 ```bash
 1chmod +x Requirement.sh
