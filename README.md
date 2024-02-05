@@ -3,6 +3,7 @@
 
 Here we have source code of two python program that i write to detect faces with help of webcam 
 
+<img width="1470" alt="Screenshot 2024-02-05 at 8 53 47 PM" src="https://github.com/Ghosts6/python_face_detection/assets/95994481/47c35091-c986-413e-91fe-68d6335dc4e0">
 
 
 
